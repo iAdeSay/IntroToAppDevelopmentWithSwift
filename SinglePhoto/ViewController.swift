@@ -3,7 +3,7 @@
 //  SinglePhoto
 //
 //  Created by Adrienne Llanes on 6/25/17.
-//  Copyright © 2017 iAdeSay. All rights reserved.
+//  Copyright © 2017 iAdeSay. All rights reserved. please
 //
 
 import UIKit
